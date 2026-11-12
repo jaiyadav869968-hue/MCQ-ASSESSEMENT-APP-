@@ -1,0 +1,19 @@
+# Java build output
+/out/
+/build/
+/target/
+*.class
+
+# Runtime application data (generated automatically)
+college-portal-data/
+
+# IDE files
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
